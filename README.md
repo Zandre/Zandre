@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Zandré Botha. This is my public github profile... obviously. I come here to play around with projects that peak my interest.
+My name is Zandré Botha. This is my public github profile. I come here to play around with projects that peak my interest.
 - 📫 I currently reside in Hilversum, Netherland
 - 💬 Check out [my full CV here](https://cvzandrebotha.azurewebsites.net/)
 
