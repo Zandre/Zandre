@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Zandré Botha. This is my public github profile. I come here to play around with projects that peak my interest.
-- 📫 I currently reside in Hilversum, Netherland
+- 📫 I currently reside in Amersfoort, Netherland
 - 💬 Check out [my full CV here](https://cvzandrebotha.azurewebsites.net/)
-- 🌱 I’m currently studying for AZ-900
+- 🌱 I’m currently studying for AZ-204
 
 <a href="https://app.daily.dev/Zandre_B"><img src="https://api.daily.dev/devcards/489bdbb0e5e846f288401772d2e5ea89.png?r=req" width="400" alt="Zandre Botha's Dev Card"/></a>
 
