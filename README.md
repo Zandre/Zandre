@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Zandré Botha. This is my public github profile. I come here to play around with projects that peak my interest.
+My name is Zandré Botha.<br/> 
+This is my public github profile. <br/>
+I come here to play around with projects that peak my interest.<br/>
 
 #### What I can do
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -22,11 +24,11 @@ My name is Zandré Botha. This is my public github profile. I come here to play 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 
-- 📫 I currently reside in Amersfoort, Netherland
+- 📫 I currently reside in Amersfoort, The Netherlands
 - 💬 Check out [my full CV here](https://cvzandrebotha.azurewebsites.net/)
-- 🌱 I’m currently studying for AZ-204
 - ⚡ Fun fact: I am well versed in useless Lord of the Rings trivia, and have an amazing beard.
-
+- 📧 You can reach me at [botha.zandre@gmail.com](mailto:botha.zandre@gmail.com)
+- 🔭 I’m currently teaching my wife how to develop, check out [her profile here](https://github.com/ElaniBotha)
 
 <!--
 **Zandre/Zandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
