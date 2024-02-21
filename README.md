@@ -23,12 +23,13 @@ I come here to play around with projects that peak my interest.<br/>
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-
 - 📫 I currently reside in Amersfoort, The Netherlands
 - 💬 Check out [my full CV here](https://cvzandrebotha.azurewebsites.net/)
 - ⚡ Fun fact: I am well versed in useless Lord of the Rings trivia, and have an amazing beard.
 - 📧 You can reach me at [botha.zandre@gmail.com](mailto:botha.zandre@gmail.com)
 - 🔭 I’m currently teaching my wife how to develop, check out [her profile here](https://github.com/ElaniBotha)
+
+![TheRealZandreBotha](./assets/banner.jpg)
 
 <!--
 **Zandre/Zandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
